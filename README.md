@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohamed Abdou
-- 👀 I’m interested in Cyber Security and CS Programming
+- 👀 I’m interested in CS filed (web develpment)
 - 🌱 I’m currently learning CS
-- 💞️ I’m looking to work in Cyber Security
+- 💞️ I’m looking to work as fullstack web developer
 - 📫 How to reach me mbd57546@gmail.com , my number in Whatsapp: +201024177472
 - 🎓 My UNY: Computer Science
 - 😄 Pronouns: male
