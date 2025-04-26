@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohamed Abdou
+- 👋 Hi, I’m Mohamed Abdou (ben abdou)
 - 👀 I’m interested in CS filed (Software Development) 
 - 🌱 I’m currently learning CS
 - 💞️ I’m looking to work as fullstack web development 
