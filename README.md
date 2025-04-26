@@ -2,7 +2,7 @@
 - 👀 I’m interested in CS filed (Software Development) 
 - 🌱 I’m currently learning CS
 - 💞️ I’m looking to work as fullstack web development 
-- 📫 How to reach me benabdoudev@gmail.com
+- 📫 How to reach me ben.abdou.dev@gmail.com
 - 🎓 My UNY: Belchar of Science (Computer Science)
 - 😄 Pronouns: male
 
